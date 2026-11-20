@@ -2,7 +2,7 @@
  
 An interactive **Power BI** dashboard that analyzes customer purchasing behavior, revenue drivers, and subscription trends across product categories, age groups, gender, and shipping types.
  
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/Screenshot 2026-11-20 124217.png)
 <!-- Add a screenshot of your dashboard at images/dashboard-preview.png -->
  
 ---
@@ -70,8 +70,8 @@ The report uses a single table, **`public.customer`**, loaded into Power BI.
 ### Run it locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<your-aasthadyadav2507>/<Customer_behaviour_analysics>.git
+cd <aasthadyadav2507>
 ```
 2. Open `customer_behavior_dashboard.pbix` in Power BI Desktop.
 3. If prompted, update the data source credentials:
@@ -118,8 +118,8 @@ Suggestions and improvements are welcome. Feel free to open an issue or submit a
 ## 📬 Contact
  
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/aasthadyadav2507)
+- LinkedIn: [your-profile](https://www.linkedin.com/in/aastha-yadav-2a80a91bb/)
 ---
  
 ⭐ If you found this project useful, consider giving it a star!
